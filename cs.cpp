@@ -4,7 +4,6 @@ using namespace std;
 int main()
 {
 	cout<<"shabi nihao!"<<endl;
-
 	system("pause");
 	return 0;
 }
